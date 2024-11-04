@@ -1,0 +1,1 @@
+localStorage.setItem("myLeads", "www.examplelead.com")
